@@ -33,5 +33,5 @@ Será aberto em [http://localhost:8080](http://localhost:8080) o resultado desse
 
 Logo, será possível visualizar a seguinte página: 
 
-![Screenshots](./public/screenshot/to-do-list.jpg)
+![Screenshots](./public/screenshot/to-do-list.jpeg)
 
